@@ -61,7 +61,7 @@ Target : /automate-your-freelance-business-complete-guide-2026/
 ## Prochaines étapes SEO
 1. ~~Finir les 12 redirects 301~~ ✅
 2. ~~Supprimer les 12 articles après redirects~~ ✅
-3. IndexNow protocol
+3. ~~IndexNow protocol~~ ✅ (clé: qivato2026bing-indexnow-key-secure, 72 URLs soumises)
 4. Stratégie de contenu / clusters thématiques
 
 ## Note technique
