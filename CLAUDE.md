@@ -38,7 +38,7 @@
 - [x] Compression images sidebar PNG
 
 ## En cours
-- [ ] Keyword cannibalization — 12 redirects 301 à créer
+- [x] Keyword cannibalization — 12 redirects 301 créés + 12 articles supprimés
 
 ### Redirects à faire — Pilier 1
 Target : /best-ai-tools-for-freelancers-scale-your-business-in-2026/
@@ -59,8 +59,8 @@ Target : /automate-your-freelance-business-complete-guide-2026/
 - /advanced-automation-10-ai-workflows-that-skyrocket-freelancers-growth/
 
 ## Prochaines étapes SEO
-1. Finir les 12 redirects 301 (plugin Redirection)
-2. Supprimer les 12 articles après redirects
+1. ~~Finir les 12 redirects 301~~ ✅
+2. ~~Supprimer les 12 articles après redirects~~ ✅
 3. IndexNow protocol
 4. Stratégie de contenu / clusters thématiques
 
